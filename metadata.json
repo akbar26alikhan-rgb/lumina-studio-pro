@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Studio Pro",
+  "description": "A sophisticated, AI-powered video editing suite featuring multi-track timelines, color grading, and integrated Gemini video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
